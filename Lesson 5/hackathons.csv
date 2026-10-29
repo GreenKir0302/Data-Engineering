@@ -1,0 +1,11 @@
+﻿student_id,group,hackathon,place,prize_rub
+101,ИС-101,AI-Transport,2,30000
+101,ИС-101,DataFest,5,0
+102,ИС-101,AI-Transport,1,50000
+104,ИС-102,DataFest,3,15000
+106,ИС-102,AI-Transport,4,0
+106,ИС-102,CityHack,1,60000
+106,ИС-102,DataFest,2,30000
+109,ИС-102,CityHack,6,0
+111,ИС-101,DataFest,7,0
+112,ИС-103,CityHack,8,0
